@@ -1,0 +1,18 @@
+Cookie: file on local storage
+Session: file on server, store user infomation
+20/2/2024
+thư mục
+27/2/2024
+
+Open database folder and import to mysql
+
+DB infomation:
+dbname: 'db_ct06'
+dbuser: 'root'
+dbpassword: ''
+
+Account:
+username: admin
+password: 123456
+
+all other accounts have the same password
